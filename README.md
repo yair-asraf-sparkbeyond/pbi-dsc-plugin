@@ -7,7 +7,7 @@ Boilerplate for Chrome extension using Vue.js and Webpack with hot-reload enable
 ## Scripts
 
 Install dependencies:
-fasdfasdfasdfasdf
+
 `npm install`
 
 Build extension and watch for changes:
